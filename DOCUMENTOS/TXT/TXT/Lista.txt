@@ -1,0 +1,56 @@
+<!doctype html><html lang="pt-br"><head><meta charset="utf-8">
+<title>TÍTULO🔴</title>
+<link href="CSS.css" type="text/css" rel="stylesheet">
+<link rel="sortcut icon" href="https://imagensemoldes.com.br/wp-content/uploads/2020/04/Figura-de-Estrela-PNG.png" type="image/gif" />
+<meta name="author" content="santos.12164@hotmail.com">
+<meta name="description" content="DESCRIÇÃO SOBRE O SITE🔴">
+<meta name="keywords" content="tang🔴, tang🔴, tang🔴">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head><body><center><body bgcolor="#ccc"> </body>
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+
+<!---------------------------------------------------------------->
+</center><ol>
+<!---------------------------------------------------------------->
+
+<!---------------------------------------------------------------->
+<p><li><a href="
+LINK🔴
+" target="_blank">
+NOME🔴
+<mark>
+DESTAQUE🔴
+</mark></a></li></p>
+<!---------------------------------------------------------------->
+<p><li><a href="
+LINK🔴
+" target="_blank">
+NOME🔴
+<mark>
+DESTAQUE🔴
+</mark></a></li></p>
+<!---------------------------------------------------------------->
+
+
+
+
+
+
+
+
+
+<!---------------------------------------------------------------->
+</ol><center>
+<!---------------------------------------------------------------->
+
+
+
+
+
+
+
+</center></body></html>
+
+
